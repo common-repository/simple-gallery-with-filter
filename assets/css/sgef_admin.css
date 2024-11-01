@@ -1,0 +1,16 @@
+
+/* === Simple Gallery with Filter by Come2theweb ==== */
+#wdc-style ul li .glyphicon {color:#3273dc;padding-right:10px;}
+.wrap.about-wrap{padding:20px;background:#fff}
+.shortcode_highlight{background:#ffecec; font-style:normal;}
+.sgwf_remove_picsbtn.button{background: #b32d2e; float:right;color: #fff;border-color: #b32d2e; display:inline-block;}
+.sgtb_formrow{padding:15px; background:#fff; border:1px #ccc solid; margin-bottom:15px;}
+.highlighted{background:#EDF5F8!important;}
+
+.sgtb_formrow label {display: block;font-weight: bold;padding: 0 0 10px;font-size: 15px;}
+.sgtb_formrow label span{font-weight:normal; font-size:13px; color:#333333; display:block;}
+.sgtb_formrow input {padding: 5px 15px 6px;border: 1px #ccc solid;width: 100%;height: auto;max-width: 320px;}
+.sgtb_formrow label.radiolabel {display: inline-block;font-weight: normal;font-size: 14px;padding-right: 18px;}
+.sgtb_formrow label.radiolabel_full {font-weight: normal;font-size: 14px;padding-right: 18px;}
+
+.sgtb_formrow label.radiolabel input, .sgtb_formrow label.radiolabel_full input {width: 10px;padding: 0 !important;height: 15px;}
